@@ -101,8 +101,6 @@ uvicorn app.main:app --reload
 
 A API estará disponível na porta 8000: `http://localhost:8000`
 
-![Server Online](./assets/server-online.png)
-
 Use a rota `http://localhost:8000/` para testar a conexão
 
 ### Documentação Interativa
@@ -113,15 +111,7 @@ Acesse `http://localhost:8000/docs` para testar os endpoints visualmente direto 
 
 ### Exemplos de Requisição (Curl)
 
-Aqui, você também pode usar outras ferramentas como Postman ou Insomnia, por exemplo:
-
-![Pergunta para a IA](./assets/question-json.png)
-
-Exemplo de pergunta, em formato json `{ "question": "..." }`
-
-![Resposta da IA](./assets/answer-json.png)
-
-Exemplo de resposta, em formato json `{ "answer": "..." }`
+Aqui, você também pode usar outras ferramentas como Postman ou Insomnia.
 
 #### Pergunta Válida
 
@@ -149,7 +139,3 @@ O projeto também inclui testes automatizados para garantir que a API responde c
 ```
 python -m pytest
 ```
-
-Resposta esperada no terminal:
-
-![Teste rodando](./assets/teste-rodando.png)
