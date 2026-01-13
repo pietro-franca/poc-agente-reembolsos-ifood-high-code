@@ -1,6 +1,6 @@
 # Agente de IA para Reembolsos - Desafio iFood
 
-Uma solução **High Code** desenvolvida para o desafio técnico de estágio do iFood. Este projeto implementa um Agente de IA generativa capaz de responder dúvidas de parceiros e clientes sobre **Reembolsos e Cancelamentos**, utilizando uma arquitetura RAG robusta, escalável e observável.
+Uma solução **High Code** desenvolvida para um desafio técnico em IA do iFood. Este projeto implementa um Agente de IA generativa capaz de responder dúvidas de parceiros e clientes sobre **Reembolsos e Cancelamentos**, utilizando uma arquitetura RAG robusta, escalável e observável.
 
 
 ## Arquitetura e Fluxo de Dados
